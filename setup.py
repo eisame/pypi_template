@@ -6,9 +6,9 @@ with open("README.md", "r", encoding = "utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "IPYNBRENDERER"
+REPO_NAME = "pypi_template"
 AUTHOR_USER_NAME = "eisame"
-SRC_REPO = "IPYNBrenderer"
+SRC_REPO = "pypi_template"
 AUTHOR_EMAIL = ""
 
 
